@@ -1,0 +1,22 @@
+html, body {
+
+    margin: 0px;
+}
+
+body {
+
+    color: #ffffff;
+    background-color: #151515;
+}
+
+a {
+
+    color: #999999;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+a:hover {
+
+    color: #eeeeee;
+}
