@@ -8,7 +8,7 @@ html, body {
 
 body {
 
-    color: #ffffff;
+    color: #999999;
     background-color: #151515;
     background: linear-gradient(#151515, #3e3e3e);
     font-family: "Montserrat", sans-serif;
@@ -20,12 +20,18 @@ body {
 
 a {
 
-    color: #999999;
+    color: #bbbbbb;
     text-decoration: none;
     transition: color 0.5s;
 }
 
 a:hover {
 
-    color: #eeeeee;
+    color: #ffffff;
+}
+
+#icon {
+
+    width: 200px;
+    height: 200px;
 }
