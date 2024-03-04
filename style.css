@@ -1,17 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
-html, body {
+html {
 
     margin: 0px;
     padding: 0px;
     min-height: 100%;
+    background-color: #151515;
+    background: linear-gradient(#151515, #3e3e3e);
 }
 
 body {
 
+    margin: 0px;
+    padding: 0px;
     color: #999999;
-    background-color: #151515;
-    background: linear-gradient(#151515, #3e3e3e);
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
