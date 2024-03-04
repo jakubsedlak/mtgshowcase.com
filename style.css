@@ -3,16 +3,19 @@
 html, body {
 
     margin: 0px;
+    min-height: 100%;
 }
 
 body {
 
     color: #ffffff;
     background-color: #151515;
+    background: linear-gradient(#151515, #3e3e3e);
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    text-align: center;
 }
 
 a {
