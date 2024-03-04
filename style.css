@@ -19,6 +19,13 @@ body {
     text-align: center;
 }
 
+h2 {
+
+    margin: 0px;
+    color: #dddddd;
+    font-size: 30px;
+}
+
 a {
 
     color: #cccccc;
