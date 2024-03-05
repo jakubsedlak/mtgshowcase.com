@@ -36,14 +36,14 @@ p {
 
 a {
 
-    color: #cccccc;
+    color: #ffffff;
     text-decoration: none;
     transition: color 0.5s;
 }
 
 a:hover {
 
-    color: #ffffff;
+    color: #cccccc;
 }
 
 #icon {
