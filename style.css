@@ -21,9 +21,16 @@ body {
 
 h2 {
 
-    margin: 0px;
+    margin: 5px;
     color: #dddddd;
     font-size: 30px;
+}
+
+p {
+
+    margin: 5px;
+    max-width: 450px;
+    display: inline-block;
 }
 
 a {
