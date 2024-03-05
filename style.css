@@ -8,7 +8,7 @@ html, body {
 
 body {
 
-    color: #999999;
+    color: #aaaaaa;
     background-color: #151515;
     background: linear-gradient(#151515, #3e3e3e);
     font-family: "Josefin Sans", sans-serif;
@@ -21,7 +21,8 @@ body {
 
 h2 {
 
-    margin: 5px;
+    margin: 0px;
+    margin-bottom: 5px;
     color: #dddddd;
     font-size: 30px;
 }
