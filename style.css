@@ -57,9 +57,15 @@ a:hover {
     height: 100px;
 }
 
+#screenshots {
+
+    width: 320px;
+    height: 635px;
+    margin: 5px;
+}
+
 #appstore {
 
-    margin-top: 10px;
     height: 100px;
 }
 
