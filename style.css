@@ -17,6 +17,13 @@ body {
     text-align: center;
 }
 
+h1 {
+
+    margin: 0px;
+    color: #ffffff;
+    font-size: 30px;
+}
+
 h2 {
 
     margin: 0px;
@@ -48,4 +55,23 @@ a:hover {
 
     width: 100px;
     height: 100px;
+}
+
+.links {
+
+    margin: 10px;
+    font-size: 15px;
+}
+
+@media (min-width: 700px) and (min-height: 500px) {
+
+    h1 {
+
+        font-size: 50px;
+    }
+
+    .links {
+    
+        font-size: 18px;
+    }
 }
