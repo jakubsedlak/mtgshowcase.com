@@ -57,11 +57,46 @@ a:hover {
     height: 100px;
 }
 
-#screenshots {
+#slideshow {
 
     width: 320px;
     height: 635px;
+    position: relative;
+    display: inline-block;
     margin: 5px;
+}
+
+.screenshots {
+
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 320px;
+    height: 635px;
+}
+
+@keyframes crossfade {
+    
+    0% { opacity: 1; }
+    20% { opacity:1; }
+    35%{ opacity: 0; }
+    85% { opacity:0; }
+    100% { opacity:1; }
+}
+
+#screenshot1 {
+
+    animation:crossfade 15s 0s infinite;
+}
+
+#screenshot2 {
+
+    animation:crossfade 15s 3s infinite;
+}
+
+#screenshot3 {
+
+    animation:crossfade 15s 6s infinite;
 }
 
 #appstore {
