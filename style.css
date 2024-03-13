@@ -99,6 +99,22 @@ a:hover {
     animation:crossfade 15s 6s infinite;
 }
 
+#signature {
+
+    font-size: 15px;
+    margin-bottom: 20px;
+
+    a {
+
+        color: #aaaaaa;
+    }
+
+    a:hover {
+
+        color: #ffffff;
+    }
+}
+
 #appstore {
 
     height: 100px;
