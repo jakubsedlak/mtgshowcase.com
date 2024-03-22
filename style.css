@@ -22,6 +22,7 @@ h1 {
     margin: 0px;
     color: #ffffff;
     font-size: 30px;
+    font-weight: 300;
 }
 
 h2 {
@@ -30,6 +31,16 @@ h2 {
     margin-bottom: 5px;
     color: #dddddd;
     font-size: 30px;
+    font-weight: 300;
+}
+
+h3 {
+
+    margin: 0px;
+    margin-top: 10px;
+    color: #aaaaaa;
+    font-size: 18px;
+    font-weight: 300;
 }
 
 p {
