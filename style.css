@@ -1,12 +1,10 @@
 html, body {
     margin: 0px;
-    min-height: 100%;
 }
 
 body {
     color: #aaaaaa;
     background-color: #151515;
-    background: linear-gradient(#151515, #202020);
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
